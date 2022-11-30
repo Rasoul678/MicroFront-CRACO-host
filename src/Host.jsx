@@ -5,7 +5,7 @@ const Host = () => {
     <div className="App">
       <header className="App-header">
         <h1>This is Host</h1>
-        <Remote />
+        <Remote isRemote />
       </header>
     </div>
   );
