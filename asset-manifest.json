@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Rasoul678/MicroFront-CRACO-host/static/js/main.f3922de4.js",
-    "static/css/368.e492d9b1.chunk.css": "/Rasoul678/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css",
-    "static/js/368.f00e0bea.chunk.js": "/Rasoul678/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js",
-    "static/js/791.c145ab85.chunk.js": "/Rasoul678/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js",
-    "static/js/164.d6e654e1.chunk.js": "/Rasoul678/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js",
-    "index.html": "/Rasoul678/MicroFront-CRACO-host/index.html",
-    "main.f3922de4.js.map": "/Rasoul678/MicroFront-CRACO-host/static/js/main.f3922de4.js.map",
-    "368.e492d9b1.chunk.css.map": "/Rasoul678/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css.map",
-    "368.f00e0bea.chunk.js.map": "/Rasoul678/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js.map",
-    "791.c145ab85.chunk.js.map": "/Rasoul678/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js.map",
-    "164.d6e654e1.chunk.js.map": "/Rasoul678/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js.map"
+    "main.js": "/MicroFront-CRACO-host/static/js/main.1a8a527a.js",
+    "static/css/368.e492d9b1.chunk.css": "/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css",
+    "static/js/368.f00e0bea.chunk.js": "/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js",
+    "static/js/791.c145ab85.chunk.js": "/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js",
+    "static/js/164.d6e654e1.chunk.js": "/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js",
+    "index.html": "/MicroFront-CRACO-host/index.html",
+    "main.1a8a527a.js.map": "/MicroFront-CRACO-host/static/js/main.1a8a527a.js.map",
+    "368.e492d9b1.chunk.css.map": "/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css.map",
+    "368.f00e0bea.chunk.js.map": "/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js.map",
+    "791.c145ab85.chunk.js.map": "/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js.map",
+    "164.d6e654e1.chunk.js.map": "/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f3922de4.js"
+    "static/js/main.1a8a527a.js"
   ]
 }
