@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/MicroFront-CRACO-host/static/js/main.1a8a527a.js",
+    "main.js": "/MicroFront-CRACO-host/static/js/main.44181565.js",
     "static/css/368.e492d9b1.chunk.css": "/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css",
-    "static/js/368.f00e0bea.chunk.js": "/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js",
+    "static/js/368.7f3d7d0a.chunk.js": "/MicroFront-CRACO-host/static/js/368.7f3d7d0a.chunk.js",
     "static/js/791.c145ab85.chunk.js": "/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js",
     "static/js/164.d6e654e1.chunk.js": "/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js",
     "index.html": "/MicroFront-CRACO-host/index.html",
-    "main.1a8a527a.js.map": "/MicroFront-CRACO-host/static/js/main.1a8a527a.js.map",
+    "main.44181565.js.map": "/MicroFront-CRACO-host/static/js/main.44181565.js.map",
     "368.e492d9b1.chunk.css.map": "/MicroFront-CRACO-host/static/css/368.e492d9b1.chunk.css.map",
-    "368.f00e0bea.chunk.js.map": "/MicroFront-CRACO-host/static/js/368.f00e0bea.chunk.js.map",
+    "368.7f3d7d0a.chunk.js.map": "/MicroFront-CRACO-host/static/js/368.7f3d7d0a.chunk.js.map",
     "791.c145ab85.chunk.js.map": "/MicroFront-CRACO-host/static/js/791.c145ab85.chunk.js.map",
     "164.d6e654e1.chunk.js.map": "/MicroFront-CRACO-host/static/js/164.d6e654e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1a8a527a.js"
+    "static/js/main.44181565.js"
   ]
 }
