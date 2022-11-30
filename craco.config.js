@@ -2,7 +2,7 @@ const cracoModuleFederation = require("craco-module-federation");
 
 module.exports = {
   output: {
-    publicPath: "http://localhost:3000/",
+    publicPath: "https://rasoul678.github.io/MicroFront-CRACO-host/",
   },
   plugins: [
     {

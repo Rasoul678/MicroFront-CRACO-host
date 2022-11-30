@@ -4,7 +4,7 @@ module.exports = {
   name: "host",
   filename: "remoteEntry.js",
   remotes: {
-    remote: "remote@http://localhost:3001/remoteEntry.js",
+    remote: "remote@https://rasoul678.github.io/MicroFront-CRACO-remote/remoteEntry.js",
   },
   exposes: {},
   shared: {
